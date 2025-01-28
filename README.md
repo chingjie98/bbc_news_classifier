@@ -68,6 +68,7 @@ news-classifier/
 │   └── utils/                # Helper functions
 ├── tests/                    # Unit tests
 ├── train/                    # Model checkpoints, logs, metrics
+├── deployment/               # Model deployment
 ├── requirements.txt          # Python dependencies
 └── README.md                 # Documentation
 ```
